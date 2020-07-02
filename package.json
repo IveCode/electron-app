@@ -6,9 +6,11 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.10.3",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
     "@babel/preset-env": "^7.10.3",
     "@babel/preset-react": "^7.10.1",
     "@babel/preset-stage-0": "^7.8.3",
+    "@giantmachines/redux-websocket": "^1.2.1",
     "@typescript-eslint/eslint-plugin": "^3.4.0",
     "@typescript-eslint/parser": "^3.4.0",
     "babel-core": "^6.26.3",
